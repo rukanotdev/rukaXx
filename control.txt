@@ -1,0 +1,2 @@
+bot_active=true
+secure_mode=false
